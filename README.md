@@ -1,2 +1,4 @@
-# vscode-cpp-test
-Build and run cpp program in VSCode
+
+# VSCode + CPP Test
+
+VSCode + CPP Development Environment Settings for Windows
